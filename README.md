@@ -91,11 +91,11 @@ When a **new version** is out, you'll know right in the app :)
 | Cheat Manager               |         ❌         |        ❌        |
 
 ## Steps: [Needs Work] (Android Only JB server)
-x Clear PS4 cache
-x Enter: http://{android_ip_here}:8080/ (on PS4)
-x Click that only hyperlink at the bottom
-x Exploit will do exploity things, just wait as the app loads the payload (may take a while depending on connection)
-x Golden Hen v2.1 will load from ios app.
+- Clear PS4 cache
+- Enter: http://{android_ip_here}:8080/ (on PS4)
+- Click that only hyperlink at the bottom
+- Exploit will do exploity things, just wait as the app loads the payload (may take a while depending on connection)
+- Golden Hen v2.2.4/5 will load from android app.
 
 ## How to load consoles 
 The app will automatically detect goldhen, klog, orbis for the ps4 and ps3mapi, ccapi and webman for the ps3.
