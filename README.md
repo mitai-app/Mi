@@ -111,7 +111,7 @@ Reach out to me via the **[profile addresses](https://github.com/Mr-Smithy-x)**.
 <table>
 <tr>
 <td colspan="4">
-<em><samp>🎷 Patreon? <a href="https://www.patreon.com/mrsmithyx">Find me</a></samp></em>
+<em><samp>🎷 Ko-fi? <a href="https://www.patreon.com/mrsmithyx">Donation</a></samp></em>
 </td>
 
 
