@@ -17,6 +17,7 @@
 </p>
       
 <p align="center">
+  <a href="https://github.com/mitai-app/Mi/releases">Releases</a> •
   <a href="#preview">About</a> •
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
