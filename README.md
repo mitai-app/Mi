@@ -80,8 +80,8 @@ When a **new version** is out, you'll know right in the app :)
 
 |                             | 🤖 ANDROID         | 📱 IOS           |
 | --------------------------  | :----------------: | :---------------:|
-| Jailbreak Server (5.05-9.00)|         ✔️         |        ❌        |
-| RPI Package Uploading       |         ❌         |        ❌        |
+| Jailbreak Server (5.05-9.00)|         ✔️         |        ⚠️ (9.00 only)       |
+| RPI Package Uploading       |         ❌         |        ✔️ (Ver. > 0.1.0)       |
 | GoldHen Bin Uploader        |         ✔️         |        ✔️        |
 | FTP Support                 |         ✔️         |        ✔️        |
 | Klog Viewer (Sock)          |         ✔️         |        ❌        |
@@ -112,7 +112,7 @@ Reach out to me via the **[profile addresses](https://github.com/Mr-Smithy-x)**.
 <table>
 <tr>
 <td colspan="4">
-<em><samp>🎷 Ko-fi? <a href="https://ko-fi.com/mrsmithyx">Donation</a></samp></em>
+<em><samp>🎷 <a href="https://ko-fi.com/mrsmithyx">Donate</a></samp></em>
 </td>
 
 
